@@ -1,37 +1,29 @@
-# Unity 5 for Beginners [Video]
-This is the code repository for [Unity 5 for Beginners [Video]](https://www.packtpub.com/game-development/unity-5-beginners-video?utm_source=github&utm_medium=repository&utm_campaign=9781785286346), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
+# Deep Learning with TensorFlow [Video]
+This is the code repository for [Deep Learning with TensorFlow]](https://www.packtpub.com/big-data-and-business-intelligence/deep-learning-tensorflow-video), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
-Unity Fundamentals is an easy-to-follow exploration of the Unity foundations. It covers the core features every developer needs to know to work effectively. Using practical and hands-on examples, Alan Thorn explores how Unity can be applied creatively to build exciting games that sell.
+With deep learning going mainstream for making sense of data, getting accurate results using deep networks is possible. This video is your guide to explore possibilities with deep learning—it will enable you to understand data like never before. With efficiency and simplicity of TensorFlow, you will be able to process your data and gain insights which would change how you look at data.
+
+With this video, you will dig your teeth deeper into the hidden layers of abstraction using raw data. This video will offer you various complex algorithms for deep learning and various examples that use these deep neural networks. You will also learn how to train your machine to craft new features to make sense of deeper layers of data. During the video course, you will come across topics like logistic regression, convolutional neural networks, training deep networks, and so on. With the help of practical examples, the video will cover advanced multilayer networks, image recognition, and beyond. 
 
 <H2>What You Will Learn</H2>
 <DIV class=book-info-will-learn-text>
 <UL>
-<LI>Understand the foundations of Unity 
-<LI>Work confidently in the Unity interface 
-<LI>Understand Level Design tools 
-<LI>Learn how to create interactive 3D Worlds 
-<LI>Work with meshes, animations, materials, textures, and more 
-<LI>Learn how to build a simple game 
-<LI>Explore useful tips and tricks for accelerating your workflow 
-<LI>Getting started at creating game logic and functionality </LI></UL></DIV>
+<LI>Set up your computing environment and install TensorFlow
+<LI>Build simple TensorFlow graphs for everyday computations 
+<LI>Apply logistic regression for classification with TensorFlow 
+<LI>Design and train a multilayer neural network with TensorFlow
+<LI>Understand intuitively convolutional neural networks for image recognition
+<LI>Bootstrap a neural network from simple to more accurate models
+<LI>Learn to use TensorFlow with other types of networks
+<LI>Program networks with SciKit-Flow, a high-level interface to TensorFlow </LI></UL></DIV>
 
 ## Instructions and Navigation
 ### Assumed Knowledge
 To fully benefit from the coverage included in this course, you will need:<br/>
-Unity Fundamentals is targeted at complete newcomers to the Unity engine, including students and hobbyists seeking to enter the games industry. This course requires no previous Unity or game development experience.	
+If you are a data scientist who performs machine learning on a regular basis, are familiar with deep neural networks, and now aim to gain expertise in working with convoluted neural networks, then this course is for you. Some familiarity with C++ or Python is assumed.
 ### Technical Requirements
 This course has the following software requirements:<br/>
-Software Required (With version mentioned)
-
-Unity version 5.6 or higher
-
-OS required
-
-Windows 7, 8, or 10
-(64-bit)
-Mac OS X 10.9 or
-higher
-
+Tensor Flow
 ## Related Products
 * [Introduction To Unity® For Absolute Beginners [Video]](https://www.packtpub.com/application-development/introduction-to-unity-for-absolute-beginners-video?utm_source=github&utm_medium=repository&utm_campaign=9781838648718)
 
